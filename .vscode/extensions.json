@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dart-code.flutter",
+    "ricardo-emerson.create-flutter-widgets-and-classes",
+    "marcelovelasquez.flutter-tree",
+    "alexisvt.flutter-snippets",
+    "dart-code.dart-code",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools",
+    "dzgmelody.vscode-changelog-snippets",
+    "vivaxy.vscode-conventional-commits"
+  ]
+}
